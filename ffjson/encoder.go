@@ -20,7 +20,7 @@ package ffjson
 import (
 	"encoding/json"
 	"errors"
-	fflib "github.com/pquerna/ffjson/fflib/v1"
+	fflib "github.com/maxproc/ffjson/fflib/v1"
 	"io"
 	"reflect"
 )
