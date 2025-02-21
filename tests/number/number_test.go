@@ -22,7 +22,7 @@ import (
 	"reflect"
 	"testing"
 
-	ff "github.com/pquerna/ffjson/tests/number/ff"
+	ff "github.com/maxproc/ffjson/tests/number/ff"
 )
 
 func TestRoundTrip(t *testing.T) {
